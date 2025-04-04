@@ -1,0 +1,1 @@
+Hypertext is a fundamental concept in HTML that allows you to create links between different pieces of content.

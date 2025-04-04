@@ -1,0 +1,14 @@
+Website hosting is a service that allows individuals or organizations to host their website on the internet.
+
+
+Types of Website Hosting:
+
+1. Shared Hosting
+
+2. Virtual Private Server (VPS) Hosting
+
+3. Dedicated Hosting
+
+4. Cloud Hosting
+
+5. Managed Hosting

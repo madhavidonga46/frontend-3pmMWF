@@ -1,0 +1,1 @@
+A web server is a software application that hosts and serves websites, web applications, and other content over the internet.

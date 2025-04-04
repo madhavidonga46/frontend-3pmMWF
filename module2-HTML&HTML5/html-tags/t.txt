@@ -1,0 +1,11 @@
+*<html>*: The root element of an HTML document.
+2. *<head>*: Contains metadata about the document.
+3. *<title>*: Sets the title of the page.
+4. *<body>*: Contains the content of the HTML document.
+5. *<h1>, <h2>, <h3>, ...*: Headings.
+6. *<p>*: Paragraph.
+7. *<img>*: Image.
+8. *<a>*: Hyperlink.
+9. *<ul>, <ol>, <li>*: Unordered and ordered lists.
+10. *<div>*: Division (used for layout and styling).
+

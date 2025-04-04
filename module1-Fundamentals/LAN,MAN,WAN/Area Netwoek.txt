@@ -1,0 +1,8 @@
+1. Local Area Network (LAN): Connects devices in a single building or campus.
+
+
+2. Metropolitan Area Network (MAN): Connects devices in a city or metropolitan area.
+
+
+3. Wide Area Network (WAN): Connects devices over a larger geographical area, such as multiple cities or countries.
+

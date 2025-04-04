@@ -1,0 +1,1 @@
+HTML (Hypertext Markup Language): Used for creating web pages and web applications.

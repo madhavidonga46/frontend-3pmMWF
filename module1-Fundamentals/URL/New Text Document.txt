@@ -1,0 +1,12 @@
+A URL (Uniform Resource Locator) is a web address used to identify and locate a specific resource on the internet.
+
+
+Types of URLs:
+
+1. Absolute URL: a complete URL with all components (e.g., (link unavailable))
+2. Relative URL: a partial URL that relies on the current context (e.g., /about)
+3. Dynamic URL: a URL that changes based on user input or other factors
+
+
+
+1. Protocol: http or https (hypertext transfer protocol)

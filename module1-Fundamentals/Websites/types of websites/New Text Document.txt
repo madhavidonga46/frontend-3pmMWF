@@ -1,0 +1,3 @@
+1. Static Website: A simple website with fixed content, often used for informational purposes.
+2. Dynamic Website: A website with interactive and dynamic content, often used for e-commerce, blogs, and online communities.
+3. E-commerce Website: A website that allows users to buy and sell products or services online.
